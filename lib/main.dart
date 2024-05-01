@@ -1,4 +1,4 @@
-import 'package:blog_app/auth/presentation/pages/login_page.dart';
+import 'package:blog_app/features/auth/presentation/pages/login_page.dart';
 import 'package:blog_app/core/secrets/app_secrets.dart';
 import 'package:blog_app/core/theme/theme.dart';
 import 'package:flutter/material.dart';
